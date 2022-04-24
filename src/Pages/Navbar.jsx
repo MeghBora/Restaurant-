@@ -12,7 +12,7 @@ function Navbar() {
         <span className="line line3" />
       </div>
       <ul className="menu-items">
-        <li><a href="#home">Home</a></li>
+        <li>Home</li>
         <li><a href="#about">About</a></li>
         <li><a href="#food">Shop</a></li>
         <li><a href="#food-menu">Menu</a></li>

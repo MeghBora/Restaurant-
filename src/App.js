@@ -1,16 +1,21 @@
 import React from 'react';
-import { Route } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Home from './Pages/Home';
-import ReactDOM from "react-dom";
+import Form from './Pages/Form';
 
 function App() {
-    return ( <
-        >
+    return ( < >
         <
         Home / >
         <
+        Routes >
+        <
+        Route path = '/form'
+        element = { < Form / > }
+        /> <
+        /Routes> <
         />
-    )
+    );
 }
 
 export default App;
