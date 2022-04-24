@@ -37,28 +37,19 @@ function Home() {
           <div className="food-container container">
             <div className="food-type fruite">
               <div className="img-container">
-                <img src="https://i.postimg.cc/yxThVPXk/food1.jpg" alt="error" />
+                <img src="https://img.taste.com.au/_8J0jkOc/w1200-h630-cfill/taste/2016/11/balti-mattar-paneer-78526-1.jpeg" alt="error" />
                 <div className="img-content">
-                  <h3>fruite</h3>
-                  <a href="https://en.wikipedia.org/wiki/Fruit" className="btn btn-primary" target="blank">learn more</a>
-                </div>
-              </div>
-            </div>
-            <div className="food-type vegetable">
-              <div className="img-container">
-                <img src="https://i.postimg.cc/Nffm6Rkk/food2.jpg" alt="error" />
-                <div className="img-content">
-                  <h3>vegetable</h3>
-                  <a href="https://en.wikipedia.org/wiki/Vegetable" className="btn btn-primary" target="blank">learn more</a>
+                  <h3>Veg</h3>
+                  <a href="https://en.wikipedia.org/wiki/Fruit" className="btn btn-primary" target="blank">Order</a>
                 </div>
               </div>
             </div>
             <div className="food-type grin">
               <div className="img-container">
-                <img src="https://i.postimg.cc/76ZwsPsd/food3.jpg" alt="error" />
+                <img src="https://images.newindianexpress.com/uploads/user/imagelibrary/2020/1/25/w900X450/Non_Veg.jpg" alt="error" />
                 <div className="img-content">
-                  <h3>grin</h3>
-                  <a href="https://en.wikipedia.org/wiki/Grain" className="btn btn-primary" target="blank">learn more</a>
+                  <h3>Non-Veg</h3>
+                  <a href="https://en.wikipedia.org/wiki/Grain" className="btn btn-primary" target="blank">Order</a>
                 </div>
               </div>
             </div>
